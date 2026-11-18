@@ -1,0 +1,117 @@
+{
+  "heading": "G6_Mixed Questions on Ratio and Proportion",
+  "topics": [
+    {
+      "heading": "Mixed Questions on Ratio and Proportion",
+      "questions": [
+
+
+  {
+    "questionNo": 1,
+    "question": ["A ratio is a mathematical tool used to precisely compare two quantities of the exact same kind. Fill in the blank to make the following mathematical statement true:<br>\"Comparing two mathematical quantities of the same type by ____________ is known as a ratio.\""],
+    "options": ["multiplication", "division", "subtraction", "addition"],
+    "answer": 1
+  },
+  {
+    "questionNo": 2,
+    "question": ["Sometimes the two terms of a ratio are written in completely different monetary or metric units. Before you can simplify the ratio, you must ensure you understand their relationship.<br>Find the missing number in the following ratio equation:<br>30 m ∶ 80 m = $15 ∶ ______"],
+    "input": [""],
+    "answer": ["40"]
+  },
+  {
+    "questionNo": 3,
+    "question": ["Find the missing number in the following ratio equation:<br>40 kg ∶ 70 kg = $16 ∶ ______"],
+    "input": [""],
+    "answer": ["28"]
+  },
+  {
+    "questionNo": 4,
+    "question": ["A ratio is only considered complete when it is written in its simplest, most reduced form.<br>Write the ratio of 12 minutes to 60 minutes in its simplest form."],
+    "options": ["12:60", "1:5", "2:10", "1:6"],
+    "answer": 1
+  },
+  {
+    "questionNo": 5,
+    "question": ["Write the ratio of 45 hours to 60 hours in its simplest form."],
+    "options": ["3:4", "15:20", "4:5", "9:12"],
+    "answer": 0
+  },
+  {
+    "questionNo": 6,
+    "question": ["Before you can mathematically simplify a ratio, the physical units must be completely identical.<br>Find the ratio of 400 grams to 3 kilograms in its simplest form."],
+    "options": ["400:3", "4:3", "2:15", "1:7"],
+    "answer": 2
+  },
+  {
+    "questionNo": 7,
+    "question": ["Find the ratio of 250 millilitres to 2 Litres in its simplest form."],
+    "options": ["250:2", "1:8", "1:4", "2:10"],
+    "answer": 1
+  },
+  {
+    "questionNo": 8,
+    "question": ["In a local community centre, the ratio of large folding tables to small folding tables is exactly 2:5. If there are exactly 35 small folding tables currently in storage, how many large folding tables are there? ______"],
+    "input": [""],
+    "answer": ["14"]
+  },
+  {
+    "questionNo": 9,
+    "question": ["In a wildlife safari park, the ratio of lions to zebras is exactly 3:7. If there are exactly 42 zebras roaming the plains, how many lions are there? ______"],
+    "input": [""],
+    "answer": ["18"]
+  },
+  {
+    "questionNo": 10,
+    "question": ["Two brothers, Liam and Noah, decide to share a cash prize of $300 in the ratio of 4:1 based on the points they scored in a competition. Exactly how much money does Liam receive?"],
+    "options": ["$60", "$240", "$200", "$150"],
+    "answer": 1
+  },
+  {
+    "questionNo": 11,
+    "question": ["An 80 centimetre wooden plank is cut cleanly into two pieces in the ratio of 3:5. What is the exact length of the shorter piece of wood?"],
+    "options": ["50 cm", "10 cm", "30 cm", "24 cm"],
+    "answer": 2
+  },
+  {
+    "questionNo": 12,
+    "question": ["The unitary method is a powerful technique for solving proportion problems by first finding the value of a single unit.<br>If a delivery van can travel exactly 320 km using exactly 20 Litres of petrol, how much distance will it logically travel using exactly 35 Litres of petrol? ______"],
+    "input": [""],
+    "answer": ["560"]
+  },
+  {
+    "questionNo": 13,
+    "question": ["A high-speed train takes exactly 3 hours to travel 240 km between two major cities. Travelling at this exact uniform speed, how much time will it physically take to travel 880 km across the country? ______"],
+    "input": [""],
+    "answer": ["11"]
+  },
+  {
+    "questionNo": 14,
+    "question": ["A recipe for mango smoothie calls for 6 cups of mango juice and exactly 2 cups of sugar syrup. Maintaining this exact proportion, find the amount of sugar syrup needed for 9 cups of mango juice."],
+    "options": ["4 cups", "2.5 cups", "3 cups", "3.5 cups"],
+    "answer": 2
+  },
+  {
+    "questionNo": 15,
+    "question": ["A painter has to paint a long wooden fence that has a total of 60 panels. He has currently painted exactly 45 panels. What is the mathematical ratio of the number of painted panels to the number of unpainted panels left?"],
+    "options": ["4:1", "1:3", "3:4", "3:1"],
+    "answer": 3
+  },
+  {
+    "questionNo": 16,
+    "question": ["The vehicles in a large city car park are counted. The number of silver cars is 250, black cars is 150, blue cars is 100, and red cars is 50. Find the simplified ratio of the number of silver cars to the total number of red cars."],
+    "options": ["250:50", "5:1", "3:1", "1:5"],
+    "answer": 1
+  },
+  {
+    "questionNo": 17,
+    "question": ["Look at the grid shown above. What is the ratio of the shaded portion to the unshaded portion, written in its simplest form?"],
+    "options": ["3:5", "9:24", "3:8", "5:3"],
+    "answer": 0,
+    "image": "./assests/images/question/12.png"
+  }
+
+
+      ]
+    }
+  ]
+}
